@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "image": "images/books/anna-karenina.jpeg"
+  },
+  {
+    "id": 2,
+    "image": "images/books/boycovskiy-club.jpeg"
+  },
+  {
+    "id": 3,
+    "image": "images/books/idiot.jpeg"
+  },
+  {
+    "id": 4,
+    "image": "images/books/malenkiy-princ.jpeg"
+  },
+  {
+    "id": 5,
+    "image": "images/books/martin-iden.jpeg"
+  },
+  {
+    "id": 6,
+    "image": "images/books/tri-tovarisha.jpeg"
+  },
+  {
+    "id": 7,
+    "image": "images/books/pikovaya-dama.jpeg"
+  },
+  {
+    "id": 8,
+    "image": "images/books/picnic-na-obochine.jpeg"
+  },
+  {
+    "id": 9,
+    "image": "images/books/prestuplenie-i-nakazanie.jpeg"
+  },
+  {
+    "id": 10,
+    "image": "images/books/master-i-margarita.jpeg"
+  },
+  {
+    "id": 11,
+    "image": "images/books/mi.jpeg"
+  },
+  {
+    "id": 12,
+    "image": "images/books/otci-i-deti.jpeg"
+  },
+  {
+    "id": 13,
+    "image": "images/books/speshi-lubit.jpeg"
+  },
+  {
+    "id": 14,
+    "image": "images/books/vishneviy-sad.jpeg"
+  },
+  {
+    "id": 15,
+    "image": "images/books/povelitel-muh.jpeg"
+  },
+  {
+    "id": 16,
+    "image": "images/books/idiot.jpeg"
+  },
+  {
+    "id": 17,
+    "image": "images/books/malenkiy-princ.jpeg"
+  }
+]
