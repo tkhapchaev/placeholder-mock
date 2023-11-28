@@ -4,13 +4,14 @@
       "id": 1,
       "title": "Анна Каренина",
       "author": "Лев Николаевич Толстой",
-      "image": "images/books/anna-karenina.jpeg"
     },
     {
       "id": 2,
       "title": "Бойцовский клуб",
       "author": "Чак Паланик",
-      "image": "images/books/boycovskiy-club.jpeg"
     },
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
