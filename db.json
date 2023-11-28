@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "title": "Анна Каренина",
+    "author": "Лев Николаевич Толстой",
+    "price": "327 ₽",
+    "image": "images/books/anna-karenina.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Бойцовский клуб",
+    "author": "Чак Паланик",
+    "price": "237 ₽",
+    "image": "images/books/boycovskiy-club.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Идиот",
+    "author": "Фёдор Михайлович Достоевский",
+    "price": "249 ₽",
+    "image": "images/books/idiot.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Маленький принц",
+    "author": "Антуан де Сент-Экзюпери",
+    "price": "351 ₽",
+    "image": "images/books/malenkiy-princ.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Мартин Иден",
+    "author": "Джек Лондон",
+    "price": "250 ₽",
+    "image": "images/books/martin-iden.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Три товарища",
+    "author": "Эрих Мария Ремарк",
+    "price": "230 ₽",
+    "image": "images/books/tri-tovarisha.jpeg"
+  },
+  {
+    "id": 7,
+    "title": "Пиковая дама",
+    "author": "Александр Сергеевич Пушкин",
+    "price": "392 ₽",
+    "image": "images/books/pikovaya-dama.jpeg"
+  },
+  {
+    "id": 8,
+    "title": "Пикник на обочине",
+    "author": "Аркадий и Борис Стругацкие",
+    "price": "291 ₽",
+    "image": "images/books/picnic-na-obochine.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Преступление и наказание",
+    "author": "Фёдор Михайлович Достоевский",
+    "price": "287 ₽",
+    "image": "images/books/prestuplenie-i-nakazanie.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Мастер и Маргарита",
+    "author": "Михаил Афанасьевич Булгаков",
+    "price": "342 ₽",
+    "image": "images/books/master-i-margarita.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Мы",
+    "author": "Евгений Иванович Замятин",
+    "price": "405 ₽",
+    "image": "images/books/mi.jpeg"
+  },
+  {
+    "id": 12,
+    "title": "Отцы и дети",
+    "author": "Иван Сергеевич Тургенев",
+    "price": "296 ₽",
+    "image": "images/books/otci-i-deti.jpeg"
+  },
+  {
+    "id": 13,
+    "title": "Спеши любить",
+    "author": "Николас Спаркс",
+    "price": "371 ₽",
+    "image": "images/books/speshi-lubit.jpeg"
+  },
+  {
+    "id": 14,
+    "title": "Вишнёвый сад",
+    "author": "Антон Павлович Чехов",
+    "price": "344 ₽",
+    "image": "images/books/vishneviy-sad.jpeg"
+  },
+  {
+    "id": 15,
+    "title": "Повелитель мух",
+    "author": "Уильям Голдинг",
+    "price": "246 ₽",
+    "image": "images/books/povelitel-muh.jpeg"
+  },
+  {
+    "id": 16,
+    "title": "Идиот",
+    "author": "Фёдор Михайлович Достоевский",
+    "price": "249 ₽",
+    "image": "images/books/idiot.jpeg"
+  },
+  {
+    "id": 17,
+    "title": "Маленький принц",
+    "author": "Антуан де Сент-Экзюпери",
+    "price": "351 ₽",
+    "image": "images/books/malenkiy-princ.jpeg"
+  }
+]
