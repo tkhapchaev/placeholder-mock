@@ -1,39 +1,39 @@
 {
   "index": [
     {
-      "id": 1,
-      "title": "Анна Каренина",
-      "author": "Лев Николаевич Толстой",
-      "price": 327,
-      "image": "images/books/anna-karenina.jpeg"
+      "id": 8,
+      "title": "Пикник на обочине",
+      "author": "Аркадий и Борис Стругацкие",
+      "price": 291,
+      "image": "images/books/picnic-na-obochine.jpeg"
     },
     {
-      "id": 2,
-      "title": "Бойцовский клуб",
-      "author": "Чак Паланик",
-      "price": 237,
-      "image": "images/books/boycovskiy-club.jpeg"
+      "id": 9,
+      "title": "Преступление и наказание",
+      "author": "Фёдор Михайлович Достоевский",
+      "price": 287,
+      "image": "images/books/prestuplenie-i-nakazanie.jpeg"
     },
     {
-      "id": 3,
+      "id": 10,
+      "title": "Мастер и Маргарита",
+      "author": "Михаил Афанасьевич Булгаков",
+      "price": 342,
+      "image": "images/books/master-i-margarita.jpeg"
+    },
+    {
+      "id": 16,
       "title": "Идиот",
       "author": "Фёдор Михайлович Достоевский",
       "price": 249,
       "image": "images/books/idiot.jpeg"
     },
     {
-      "id": 4,
+      "id": 17,
       "title": "Маленький принц",
       "author": "Антуан де Сент-Экзюпери",
       "price": 351,
       "image": "images/books/malenkiy-princ.jpeg"
-    },
-    {
-      "id": 5,
-      "title": "Мартин Иден",
-      "author": "Джек Лондон",
-      "price": 250,
-      "image": "images/books/martin-iden.jpeg"
     }
   ],
   
