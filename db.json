@@ -1,13 +1,6 @@
 {
   "index": [
     {
-      "id": 7,
-      "title": "Пиковая дама",
-      "author": "Александр Сергеевич Пушкин",
-      "price": 392,
-      "image": "images/books/pikovaya-dama.jpeg"
-    },
-    {
       "id": 8,
       "title": "Пикник на обочине",
       "author": "Аркадий и Борис Стругацкие",
@@ -34,6 +27,13 @@
       "author": "Оскар Уайльд",
       "price": 373,
       "image": "images/books/portret-doriana-graya.jpeg"
+    },
+    {
+      "id": 17,
+      "title": "Поющие в терновнике",
+      "author": "Колин Маккалоу",
+      "price": 282,
+      "image": "images/books/poushie-v-ternovnike.jpeg"
     }
   ],
   
